@@ -1,0 +1,57 @@
+301 redirected to Fast Pitch Tournament - Edit:
+	Tournaments Admin
+	Slow Pitch Tournaments
+
+Go directly to a web app item:
+	http://ilusssa.worldsecuresystems.com/AdminConsole/#!/Admin/CustomContent_Details.aspx?CustomContentID=19952&ValueID=4443979	
+
+
+223 total 
+182 - 2013
+41 - 2014
+
+submitted by:
+ilusssa - 27070218
+
+
+External ID - 1/16
+4443979
+4467638
+4477688
+4467639
+4479689
+4477690
+4477692
+4416909
+4415865
+4477638
+4467640
+4443980
+4467636
+4438638
+
+
+Fix Age (includes commas or ampersand)
+4416909
+4479689
+4443979
+4443980
+4477429
+4438638
+4477638
+4415865
+4477690
+4477692
+
+70046
+70047
+
+
+csv templateIDs
+1431728 - older FP tournys (added through wizard?) - "Fast Pitch - Tournaments"
+1431331 - newer FP tournys (added manually?) - "base interior page"
+1456875 - older FP tournys (???) - "Tournaments (2col)"
+
+1458027 - slow pitch
+
+
